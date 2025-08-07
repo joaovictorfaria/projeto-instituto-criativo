@@ -1,6 +1,6 @@
-# Instituto-Criativo
+# Instituto Criativo
 
-## ONG -Instituto Criativo Dashboard 
+## Dashboard  
 
 <p align="center">
   <a href="https://www.fecap.br/">
