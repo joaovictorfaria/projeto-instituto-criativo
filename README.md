@@ -69,7 +69,7 @@ Este projeto visa o desenvolvimento de uma nova versão do site da ONG Instituto
  
  ⚡ Frontend: React + Vite<br>
  🎨 Estilização: Tailwind CSS<br>
- ⚙ Backend: .NET<br>
+ ⚙ Backend: Node.js<br>
  🗄 Banco de Dados: MySQL<br>
  🌐 Gerenciamento de Estado: Context API<br>
  📊 Gráficos e Visualizações: Recharts<br>
