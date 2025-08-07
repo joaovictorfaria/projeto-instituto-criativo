@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# 🔐 ACESSO AO SISTEMA- Senha `482590`
+# 🔐 Acesso ao Sistema - Senha `482590`
 
 
 ### Credenciais de Acesso
